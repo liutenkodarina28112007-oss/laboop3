@@ -1,0 +1,11 @@
+C:\Users\Asus\Desktop\Variant3_OOP\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\Users\Asus\Desktop\Variant3_OOP\DAL\bin\Debug\net8.0\DAL.dll
+C:\Users\Asus\Desktop\Variant3_OOP\DAL\bin\Debug\net8.0\DAL.pdb
+C:\Users\Asus\Desktop\Variant3_OOP\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Variant3_OOP\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Variant3_OOP\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Variant3_OOP\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Variant3_OOP\DAL\obj\Debug\net8.0\DAL.dll
+C:\Users\Asus\Desktop\Variant3_OOP\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\Users\Asus\Desktop\Variant3_OOP\DAL\obj\Debug\net8.0\DAL.pdb
+C:\Users\Asus\Desktop\Variant3_OOP\DAL\obj\Debug\net8.0\ref\DAL.dll

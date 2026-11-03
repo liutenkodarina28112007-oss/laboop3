@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\Variant3_OOP\Part1\bin\Debug\net8.0\Part1.exe
+C:\Users\Asus\Desktop\Variant3_OOP\Part1\bin\Debug\net8.0\Part1.deps.json
+C:\Users\Asus\Desktop\Variant3_OOP\Part1\bin\Debug\net8.0\Part1.runtimeconfig.json
+C:\Users\Asus\Desktop\Variant3_OOP\Part1\bin\Debug\net8.0\Part1.dll
+C:\Users\Asus\Desktop\Variant3_OOP\Part1\bin\Debug\net8.0\Part1.pdb
+C:\Users\Asus\Desktop\Variant3_OOP\Part1\obj\Debug\net8.0\Part1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Variant3_OOP\Part1\obj\Debug\net8.0\Part1.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Variant3_OOP\Part1\obj\Debug\net8.0\Part1.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Variant3_OOP\Part1\obj\Debug\net8.0\Part1.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Variant3_OOP\Part1\obj\Debug\net8.0\Part1.dll
+C:\Users\Asus\Desktop\Variant3_OOP\Part1\obj\Debug\net8.0\refint\Part1.dll
+C:\Users\Asus\Desktop\Variant3_OOP\Part1\obj\Debug\net8.0\Part1.pdb
+C:\Users\Asus\Desktop\Variant3_OOP\Part1\obj\Debug\net8.0\Part1.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Variant3_OOP\Part1\obj\Debug\net8.0\ref\Part1.dll

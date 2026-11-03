@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfProduct xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Product>
+    <Code>101</Code>
+    <Name>Ноутбук</Name>
+    <Manufacturer>Lenovo</Manufacturer>
+    <Price>28500</Price>
+    <Quantity>3</Quantity>
+  </Product>
+  <Product>
+    <Code>102</Code>
+    <Name>Миша</Name>
+    <Manufacturer>Logitech</Manufacturer>
+    <Price>750</Price>
+    <Quantity>10</Quantity>
+  </Product>
+  <Product>
+    <Code>103</Code>
+    <Name>Клавіатура</Name>
+    <Manufacturer>HyperX</Manufacturer>
+    <Price>2200</Price>
+    <Quantity>5</Quantity>
+  </Product>
+  <Product>
+    <Code>104</Code>
+    <Name>Монітор</Name>
+    <Manufacturer>Samsung</Manufacturer>
+    <Price>8900</Price>
+    <Quantity>4</Quantity>
+  </Product>
+  <Product>
+    <Code>105</Code>
+    <Name>Навушники</Name>
+    <Manufacturer>Sony</Manufacturer>
+    <Price>3100</Price>
+    <Quantity>6</Quantity>
+  </Product>
+</ArrayOfProduct>
